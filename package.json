@@ -1,5 +1,5 @@
 {
-  "name": "mk-component",
+  "name": "@mk0812/mk-component",
   "version": "1.0.0",
   "description": "mk-component is my component librarires",
   "main": "index.js",
