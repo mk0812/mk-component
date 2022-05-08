@@ -1,0 +1,22 @@
+{
+  "name": "mk-component",
+  "version": "1.0.0",
+  "description": "mk-component is my component librarires",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk0812/mk-component.git"
+  },
+  "keywords": [
+    "mk0812"
+  ],
+  "author": "mk0812",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk0812/mk-component/issues"
+  },
+  "homepage": "https://github.com/mk0812/mk-component#readme"
+}
